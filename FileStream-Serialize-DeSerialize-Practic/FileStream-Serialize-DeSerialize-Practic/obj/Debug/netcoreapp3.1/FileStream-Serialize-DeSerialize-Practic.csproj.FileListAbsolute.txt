@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.exe
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.deps.json
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.runtimeconfig.json
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.dll
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.pdb
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.dll
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.pdb
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.genruntimeconfig.cache
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\FileStream-Serialize-DeSerialize-Practic\FileStream-Serialize-DeSerialize-Practic\obj\Debug\netcoreapp3.1\FileStream-Serialize-DeSerialize-Practic.csproj.CopyComplete
